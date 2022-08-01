@@ -3,8 +3,8 @@ These are basic projects whritten in Python using various modules such as tkinte
 
 ## Projects
 
-*[Checkbook](https://github.com/TeeTru/Django-Projects/tree/main/Django_Checkbook_Project)
-*[Hotel Restaurant Menu](https://github.com/TeeTru/Django-Projects/tree/main/techproject)
+* [Checkbook](https://github.com/TeeTru/Django-Projects/tree/main/Django_Checkbook_Project)
+* [Hotel Restaurant Menu](https://github.com/TeeTru/Django-Projects/tree/main/techproject)
 * [Phonebook](https://github.com/TeeTru/Python-Projects/tree/main/phoneBook%20Demo)
 * [Check Files Gui](https://github.com/TeeTru/Python-Projects/blob/main/file_transfer.py)
 * [Student Tracker](https://github.com/TeeTru/Python-Projects/tree/main/StudentTracker%20Demo)
